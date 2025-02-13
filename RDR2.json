@@ -9,7 +9,8 @@
             "cause of death": "Tuberculosis",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 2,
@@ -17,10 +18,12 @@
             "D.O.B": "1873",
             "age": "26",
             "died": "ca 1911",
-            "cause of death": "Shot",
+            "cause of death": "Shot by Edgar Ross from Bureau of Investigation",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)"
+
         },
         {
             "id": 3,
@@ -31,7 +34,8 @@
             "cause of death": "Jumped of a cliff",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde (Leader)",
+            "occupation": "Outlaw"
         },
         {
             "id": 4,
@@ -39,10 +43,11 @@
             "D.O.B": "1866",
             "age": "33",
             "died": "ca 1911",
-            "cause of death": "Shot",
+            "cause of death": "Shot by John Marston",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Soldier (formerly), Outlaw"
         },
         {
             "id": 5,
@@ -51,9 +56,10 @@
             "age": "27",
             "died": "unknown",
             "cause of death": "unknown",
-            "nationality": "American",
+            "nationality": "American, Native American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope"
         },
         {
             "id": 6,
@@ -61,10 +67,11 @@
             "D.O.B": "ca 1844",
             "age": "ca 55",
             "died": "1899",
-            "cause of death": "Shot",
+            "cause of death": "Shot by Milton Ross",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Stage Actor (formerly), Outlaw"
         },
         {
             "id": 7,
@@ -75,7 +82,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Bounty Hunter"
         },
         {
             "id": 8,
@@ -86,7 +94,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)"
         },
         {
             "id": 9,
@@ -97,7 +106,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Rancher at Beachers Hope, Bounty Hunter (when older)"
         },
         {
             "id": 10,
@@ -108,7 +118,8 @@
             "cause of death": "unknown",
             "nationality": "Mexican",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Revolutionary (formerly), Outlaw"
         },
         {
             "id": 11,
@@ -119,7 +130,8 @@
             "cause of death": "unknown",
             "nationality": "English",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Magician, Conman"
         },
         {
             "id": 12,
@@ -130,7 +142,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 13,
@@ -138,10 +151,11 @@
             "D.O.B": "unknown",
             "age": "unknown",
             "died": "1899",
-            "cause of death": "decapitation",
+            "cause of death": "Decapitated by O'Driscolls Boys",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde, O'Driscolls Boys (formerly)",
+            "occupation": "Outlaw"
         },
         {
             "id": 14,
@@ -149,10 +163,11 @@
             "D.O.B": "1880",
             "age": "19",
             "died": "1899",
-            "cause of death": "shot",
+            "cause of death": "Shot by Saint Denis police during bank robbery",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 15,
@@ -163,7 +178,8 @@
             "cause of death": "",
             "nationality": "Austrian",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Bookkeeper, Loan Shark"
         },
         {
             "id": 16,
@@ -174,7 +190,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Novelist"
         },
         {
             "id": 17,
@@ -182,10 +199,11 @@
             "D.O.B": "1860",
             "age": "39",
             "died": "1907",
-            "cause of death": "shot",
+            "cause of death": "Shot by John Marston and Sadie Adler",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 18,
@@ -193,10 +211,11 @@
             "D.O.B": "unknown",
             "age": "mid-20s",
             "died": "1899",
-            "cause of death": "shot",
+            "cause of death": "Shot by Susan Grimshaw for breaking gang rules",
             "nationality": "Irish",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 19,
@@ -207,7 +226,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Sailor and cook (formerly), Outlaw (formerly), Shopkeeper"
         },
         {
             "id": 20,
@@ -218,7 +238,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Clergyman, Minister"
         },
         {
             "id": 21,
@@ -226,10 +247,11 @@
             "D.O.B": "unknown",
             "age": "mid-20s",
             "died": "1899",
-            "cause of death": "shot",
+            "cause of death": "Shot by Gray family in Rhodes ambush",
             "nationality": "Irish",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 22,
@@ -237,10 +259,11 @@
             "D.O.B": "unknown",
             "age": "mid-50s",
             "died": "1899",
-            "cause of death": "shot",
+            "cause of death": "Shot by Micah Bell",
             "nationality": "American",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 23,
@@ -251,7 +274,8 @@
             "cause of death": "unknown",
             "nationality": "American",
             "gender": "Female",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw"
         },
         {
             "id": 24,
@@ -259,10 +283,11 @@
             "D.O.B": "1849",
             "age": "50",
             "died": "1911",
-            "cause of death": "shot",
+            "cause of death": "Shot by Bureau of Investigation",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "Van Der Linde"
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope"
         }
     ],
     "antagonists": [
@@ -275,7 +300,8 @@
             "cause of death": "Hanged for his crimes",
             "nationality": "Irish",
             "gender": "Male",
-            "affiliation": "O'Driscoll Boys"
+            "affiliation": "O'Driscoll Boys (Leader)",
+            "occupation": "Outlaw"
         },
         {
             "id": 2,
@@ -283,10 +309,10 @@
             "D.O.B": "unknown",
             "age": "unknown",
             "died": "1899",
-            "cause of death": "Shot by cannon",
+            "cause of death": "Shot by cannon by Arthur Morgan",
             "nationality": "Cuban",
             "gender": "Male",
-            "affiliation": "",
+            "affiliation": "Cuban Military",
             "occupation": "Governor of Guarma"
         },
         {
@@ -298,7 +324,7 @@
             "cause of death": "Shot in the head by Abigail Roberts",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "",
+            "affiliation": "Pinkerton National Detective Agency",
             "occupation": "Pinkerton Detective"
         },
         {
@@ -310,7 +336,7 @@
             "cause of death": "Drowned by Dutch Van Der Linde",
             "nationality": "Italian",
             "gender": "Male",
-            "affiliation": "",
+            "affiliation": "Saint Denis Mob",
             "occupation": "Crimeboss, Businessman"
         },
         {
@@ -323,7 +349,7 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Braithwaite Family",
-            "occupation": ""
+            "occupation": "Matriarch of Braithwaite family"
         },
         {
             "id": 6,
@@ -334,7 +360,7 @@
             "cause of death": "Shot by Arthur Morgan",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "",
+            "affiliation": "United States Army",
             "occupation": "Colonel in the United States Army"
         },
         {
@@ -346,8 +372,8 @@
             "cause of death": "Shot by Jack Marston",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "",
-            "occupation": "Former Pinkerton Detective, Bureau of Investigation"
+            "affiliation": "Pinkerton National Detective Agency (formerly), Bureau of Investigation",
+            "occupation": "Former Pinkerton Detective, Chief of Bureau of Investigation"
         },
         {
             "id": 8,
@@ -370,7 +396,7 @@
             "cause of death": "Shot by Dutch Van Der Linde",
             "nationality": "American",
             "gender": "Male",
-            "affiliation": "",
+            "affiliation": "Cornwall Kerosene & Tar, Pinkerton Agency",
             "occupation": "Businessman"
         }
     ],
