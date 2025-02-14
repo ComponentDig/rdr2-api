@@ -10,7 +10,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "players choice",
+                "breed": "players choice",
+                "color": "players choice",
+                "owner": "Arthur Morgan",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Boadicea",
+                "breed": "unknown",
+                "color": "unknown",
+                "owner": "Arthur Morgan",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Before main story"
+            }        
         },
         {
             "id": 2,
@@ -22,8 +51,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)"
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
 
+            },
+            "horse": {
+                "name": "Old Boy",
+                "breed": "Hungarian Half-bred",
+                "color": "Silver Dark Bay",
+                "owner": "John Marston",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period":"Main Story"
+            },
+            "other_horse": {
+                "name": "Rachel",
+                "breed": "Thoroughbred",
+                "color": "Grey Roan Sabino",
+                "owner": "John Marston",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }        
         },
         {
             "id": 3,
@@ -35,7 +92,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde (Leader)",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "The Count",
+                "breed": "Arabian",
+                "color": "Albino (Cremello)",
+                "owner": "Dutch Van Der Linde",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period":"Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            }
         },
         {
             "id": 4,
@@ -47,7 +133,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Soldier (formerly), Outlaw"
+            "occupation": "Soldier (formerly), Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Brown Jack",
+                "breed": "Ardennes",
+                "color": "Brown Roan",
+                "owner": "Bill Williamson",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period":"Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            }
         },
         {
             "id": 5,
@@ -59,7 +174,36 @@
             "nationality": "American, Native American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw (formerly), Rancher at Beachers Hope"
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Taima",
+                "breed": "Appaloosa",
+                "color": "Grey Snowcap Spotted",
+                "owner": "Charles Smith",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Falmouth",
+                "breed": "Nokota",
+                "color": "Grey Roan Sabino",
+                "owner": "Charles Smith",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }        
         },
         {
             "id": 6,
@@ -71,7 +215,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Stage Actor (formerly), Outlaw"
+            "occupation": "Stage Actor (formerly), Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Silver Dollar",
+                "breed": "Turkoman",
+                "color": "Silver",
+                "owner": "Hosea Matthews",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            }   
         },
         {
             "id": 7,
@@ -83,7 +256,36 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw (formerly), Bounty Hunter"
+            "occupation": "Outlaw (formerly), Bounty Hunter",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Bob",
+                "breed": "Turkoman",
+                "color": "Gold Dapple",
+                "owner": "Sadie Adler",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Hera",
+                "breed": "Mustang",
+                "color": "Dark Bay Roan",
+                "owner": "Sadie Adler",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }   
         },
         {
             "id": 8,
@@ -95,7 +297,36 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)"
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "Tennessee Walker",
+                "color": "Red Roan",
+                "owner": "Abigail Roberts",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }   
         },
         {
             "id": 9,
@@ -107,7 +338,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Rancher at Beachers Hope, Bounty Hunter (when older)"
+            "occupation": "Rancher at Beachers Hope, Bounty Hunter (when older)",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "Morgan",
+                "color": "",
+                "owner": "Jack Marston",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            } 
         },
         {
             "id": 10,
@@ -119,7 +379,36 @@
             "nationality": "Mexican",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Revolutionary (formerly), Outlaw"
+            "occupation": "Revolutionary (formerly), Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Boaz",
+                "breed": "American Paint",
+                "color": "Grey Overo",
+                "owner": "Javier Escuella",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            } 
         },
         {
             "id": 11,
@@ -131,7 +420,36 @@
             "nationality": "English",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Magician, Conman"
+            "occupation": "Magician, Conman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Gwydion",
+                "breed": "Appaloosa",
+                "color": "Brown Leopard",
+                "owner": "Josiah Trelawny",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            } 
         },
         {
             "id": 12,
@@ -143,7 +461,36 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Old Belle",
+                "breed": "Nokota",
+                "color": "Smoky Black",
+                "owner": "Karen Jones",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            } 
         },
         {
             "id": 13,
@@ -155,7 +502,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde, O'Driscolls Boys (formerly)",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Branwen",
+                "breed": "Tennessee Walker",
+                "color": "Flaxen Roan",
+                "owner": "Kieran Duffy",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 14,
@@ -167,7 +543,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Maggie",
+                "breed": "Mustang",
+                "color": "Light Palamino",
+                "owner": "Lenny Summers",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 15,
@@ -179,7 +584,36 @@
             "nationality": "Austrian",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Bookkeeper, Loan Shark"
+            "occupation": "Bookkeeper, Loan Shark",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "Morgan",
+                "color": "",
+                "owner": "Leopold Strauss",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 16,
@@ -191,7 +625,36 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw (formerly), Novelist"
+            "occupation": "Outlaw (formerly), Novelist",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 17,
@@ -203,7 +666,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Baylock",
+                "breed": "Missouri Fox Trotter",
+                "color": "Black",
+                "owner": "Micah Bell",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 18,
@@ -215,7 +707,36 @@
             "nationality": "Irish",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 19,
@@ -227,7 +748,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Sailor and cook (formerly), Outlaw (formerly), Shopkeeper"
+            "occupation": "Sailor and cook (formerly), Outlaw (formerly), Shopkeeper",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 20,
@@ -239,11 +789,40 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Clergyman, Minister"
+            "occupation": "Clergyman, Minister",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 21,
-            "name": "Sean Macguire",
+            "name": "Sean MacGuire",
             "D.O.B": "unknown",
             "age": "mid-20s",
             "died": "1899",
@@ -251,7 +830,36 @@
             "nationality": "Irish",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Ennis",
+                "breed": "American Standardbred",
+                "color": "Silver Tail Buckskin",
+                "owner": "Sean MacGuire",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 22,
@@ -263,7 +871,36 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 23,
@@ -275,7 +912,36 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         },
         {
             "id": 24,
@@ -287,7 +953,36 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Van Der Linde",
-            "occupation": "Outlaw (formerly), Rancher at Beachers Hope"
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            },
+            "horse": {
+                "name": "Nell II",
+                "breed": "Kentucky Saddler",
+                "color": "Sabino",
+                "owner": "Uncle",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Nell IV",
+                "breed": "Appaloosa",
+                "color": "Few Spot Buckskin",
+                "owner": "Uncle",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
         }
     ],
     "antagonists": [
@@ -301,7 +996,14 @@
             "nationality": "Irish",
             "gender": "Male",
             "affiliation": "O'Driscoll Boys (Leader)",
-            "occupation": "Outlaw"
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 2,
@@ -313,7 +1015,14 @@
             "nationality": "Cuban",
             "gender": "Male",
             "affiliation": "Cuban Military",
-            "occupation": "Governor of Guarma"
+            "occupation": "Governor of Guarma",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 3,
@@ -325,7 +1034,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Pinkerton National Detective Agency",
-            "occupation": "Pinkerton Detective"
+            "occupation": "Pinkerton Detective",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 4,
@@ -337,7 +1053,14 @@
             "nationality": "Italian",
             "gender": "Male",
             "affiliation": "Saint Denis Mob",
-            "occupation": "Crimeboss, Businessman"
+            "occupation": "Crimeboss, Businessman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 5,
@@ -349,7 +1072,14 @@
             "nationality": "American",
             "gender": "Female",
             "affiliation": "Braithwaite Family",
-            "occupation": "Matriarch of Braithwaite family"
+            "occupation": "Matriarch of Braithwaite family",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 6,
@@ -361,7 +1091,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "United States Army",
-            "occupation": "Colonel in the United States Army"
+            "occupation": "Colonel in the United States Army",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 7,
@@ -373,7 +1110,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Pinkerton National Detective Agency (formerly), Bureau of Investigation",
-            "occupation": "Former Pinkerton Detective, Chief of Bureau of Investigation"
+            "occupation": "Former Pinkerton Detective, Chief of Bureau of Investigation",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 8,
@@ -385,7 +1129,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Gray Family",
-            "occupation": "Sheriff of Scarlet Meadows County"
+            "occupation": "Sheriff of Scarlet Meadows County",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 9,
@@ -397,7 +1148,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Cornwall Kerosene & Tar, Pinkerton Agency",
-            "occupation": "Businessman"
+            "occupation": "Businessman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         }
     ],
     "supporters": [
@@ -411,7 +1169,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Gray Family",
-            "occupation": ""
+            "occupation": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 2,
@@ -423,7 +1188,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "",
-            "occupation": "Captain of the United States Army"
+            "occupation": "Captain of the United States Army",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 3,
@@ -435,7 +1207,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "",
-            "occupation": "Owner of Pronghorn Ranch"
+            "occupation": "Owner of Pronghorn Ranch",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 4,
@@ -447,7 +1226,14 @@
             "nationality": "Indian, Native American",
             "gender": "Male",
             "affiliation": "Wapiti Indians",
-            "occupation": ""
+            "occupation": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 5,
@@ -459,7 +1245,14 @@
             "nationality": "Haitian",
             "gender": "Male",
             "affiliation": "Guarma Rebels",
-            "occupation": "Rebel, Smuggler"
+            "occupation": "Rebel, Smuggler",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 6,
@@ -471,7 +1264,14 @@
             "nationality": "Indian, Native American",
             "gender": "Male",
             "affiliation": "Wapiti Indians",
-            "occupation": "Chieftain"
+            "occupation": "Chieftain",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         },
         {
             "id": 7,
@@ -483,7 +1283,14 @@
             "nationality": "American",
             "gender": "Male",
             "affiliation": "Pronghorn Ranch",
-            "occupation": "Ranch overseer"
+            "occupation": "Ranch overseer",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
         }
     ]
 }
