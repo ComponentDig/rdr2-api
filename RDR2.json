@@ -15,9 +15,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "players choice",
                 "breed": "players choice",
@@ -39,7 +37,7 @@
                     "alt_text": ""
                 },
                 "period": "Before main story"
-            }        
+            }
         },
         {
             "id": 2,
@@ -56,9 +54,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Old Boy",
                 "breed": "Hungarian Half-bred",
@@ -68,7 +64,7 @@
                     "url": "",
                     "alt_text": ""
                 },
-                "period":"Main Story"
+                "period": "Main Story"
             },
             "other_horse": {
                 "name": "Rachel",
@@ -80,7 +76,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            }        
+            }
         },
         {
             "id": 3,
@@ -97,9 +93,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "The Count",
                 "breed": "Arabian",
@@ -109,7 +103,7 @@
                     "url": "",
                     "alt_text": ""
                 },
-                "period":"Main Story"
+                "period": "Main Story"
             },
             "other_horse": {
                 "name": "",
@@ -138,9 +132,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Brown Jack",
                 "breed": "Ardennes",
@@ -150,7 +142,7 @@
                     "url": "",
                     "alt_text": ""
                 },
-                "period":"Main Story"
+                "period": "Main Story"
             },
             "other_horse": {
                 "name": "",
@@ -179,9 +171,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Taima",
                 "breed": "Appaloosa",
@@ -203,7 +193,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            }        
+            }
         },
         {
             "id": 6,
@@ -220,9 +210,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Silver Dollar",
                 "breed": "Turkoman",
@@ -244,7 +232,7 @@
                     "alt_text": ""
                 },
                 "period": ""
-            }   
+            }
         },
         {
             "id": 7,
@@ -261,9 +249,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Bob",
                 "breed": "Turkoman",
@@ -285,7 +271,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            }   
+            }
         },
         {
             "id": 8,
@@ -302,9 +288,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -326,7 +310,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            }   
+            }
         },
         {
             "id": 9,
@@ -343,9 +327,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -367,7 +349,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            } 
+            }
         },
         {
             "id": 10,
@@ -384,9 +366,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Boaz",
                 "breed": "American Paint",
@@ -408,7 +388,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            } 
+            }
         },
         {
             "id": 11,
@@ -425,9 +405,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Gwydion",
                 "breed": "Appaloosa",
@@ -449,7 +427,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            } 
+            }
         },
         {
             "id": 12,
@@ -466,9 +444,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Old Belle",
                 "breed": "Nokota",
@@ -490,7 +466,7 @@
                     "alt_text": ""
                 },
                 "period": "Epilogue"
-            } 
+            }
         },
         {
             "id": 13,
@@ -507,9 +483,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Branwen",
                 "breed": "Tennessee Walker",
@@ -548,9 +522,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Maggie",
                 "breed": "Mustang",
@@ -589,9 +561,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "Morgan",
@@ -630,9 +600,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -671,9 +639,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Baylock",
                 "breed": "Missouri Fox Trotter",
@@ -712,9 +678,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -753,9 +717,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -794,9 +756,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -835,9 +795,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Ennis",
                 "breed": "American Standardbred",
@@ -876,9 +834,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -917,9 +873,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "",
                 "breed": "",
@@ -958,9 +912,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            },
+            "additional_info": {},
             "horse": {
                 "name": "Nell II",
                 "breed": "Kentucky Saddler",
@@ -1001,9 +953,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 2,
@@ -1020,9 +970,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 3,
@@ -1039,9 +987,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 4,
@@ -1058,9 +1004,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 5,
@@ -1077,9 +1021,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 6,
@@ -1096,9 +1038,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 7,
@@ -1115,9 +1055,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 8,
@@ -1134,9 +1072,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 9,
@@ -1153,9 +1089,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 10,
@@ -1172,9 +1106,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 11,
@@ -1191,9 +1123,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 12,
@@ -1210,9 +1140,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 13,
@@ -1229,9 +1157,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         }
     ],
     "supporting": [
@@ -1250,9 +1176,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 2,
@@ -1269,9 +1193,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 3,
@@ -1288,9 +1210,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 4,
@@ -1307,9 +1227,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 5,
@@ -1326,9 +1244,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 6,
@@ -1345,9 +1261,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 7,
@@ -1364,9 +1278,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 8,
@@ -1383,9 +1295,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 9,
@@ -1402,9 +1312,7 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
+            "additional_info": {}
         },
         {
             "id": 10,
@@ -1421,10 +1329,9 @@
                 "url": "",
                 "alt_text": ""
             },
-            "additional_info": {
-
-            }
-        },    {
+            "additional_info": {}
+        },
+        {
             "id": 10,
             "name": "Penelope Braithwaite",
             "D.O.B": "",
@@ -1439,8 +1346,352 @@
                 "url": "",
                 "alt_text": ""
             },
+            "additional_info": {}
+        },
+        {
+            "id": 11,
+            "name": "Edith Downes",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "",
+            "occupation": "Farmer (formerly), prostitute",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
             "additional_info": {
 
+            }
+        },   {
+            "id": 12,
+            "name": "Archie Downes",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "",
+            "occupation": "Farmer (formerly), miner",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+
+            }
+        }
+    ],
+    "debtors": [
+        {
+            "id": 1,
+            "name": "Algie Davidson",
+            "location": "Catfish Jacksons in Scarlett Meadows, State of Lemoyne",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 2,
+            "name": "Thomas Downes",
+            "location": "Downes Ranch in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 3,
+            "name": "Chick Matthews",
+            "location": "Guthrie Farm in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 4,
+            "name": "Cooper",
+            "location": "Emerald Ranch in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+                "fact": "Lover of Lilly Millet"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Lilly Millet",
+            "location": "Emerald Ranch in The Heartland, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 6,
+            "name": "Gwyn Hughes",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 7,
+            "name": "J.John Weathers",
+            "location": "Three Sister in Grizzlies East, State of Ambarino",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 8,
+            "name": "Arthur Londonderry",
+            "location": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+                "fact": "Died"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Mrs.Londonderry",
+            "location": "Sawbone Clearing in Roanoke Ridge, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {
+                "fact": "Wife of Arthur Londonderry"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Winton Holmes",
+            "location": "North of Strawberry in Big Valley, State of West Elizabeth",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 11,
+            "name": "Wróbel",
+            "location": "Painted Sky in Big Valley, State of West Elizabeth",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        }
+    ],
+    "gunslingers": [
+        {
+            "id": 1,
+            "name": "Black Belle",
+            "real_name": "Maybelle Elizabeth Colter",
+            "location": "Canebreak Manor in Bluewater Marsh, State of Lemoyne",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 2,
+            "name": "Billy Midnight",
+            "real_name": "Wilhelm Schnell",
+            "location": "On a train in Rhodes in Scarlett Meadows, State of Lemoyne",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 3,
+            "name": "Emmet Granger",
+            "real_name": "",
+            "location": "Grangers Hoggery in Flat Iron Lake in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 4,
+            "name": "The Terror of the Grizzlies",
+            "real_name": "Flaco Hernández",
+            "location": "Cairn Lodge in Grizzlies West, State of Ambarino",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 5,
+            "name": "Boy Calloway",
+            "real_name": "Jim Calloway",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 6,
+            "name": "Slim Grant",
+            "real_name": "",
+            "location": "Beaver Hollow in Roanoke Ridge, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        }
+    ],
+    "strangers": [
+        {
+            "id": 1,
+            "name": "Acrisius",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "Oh Brother I, II, III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 2,
+            "name": "Albert Mason",
+            "occupation": "Wildlife photographer",
+            "location": "Transitory",
+            "mission": "Arcadia For Amateurs",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 3,
+            "name": "Algernon Wasp",
+            "occupation": "Milliner",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Duchesses and other Animals",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 4,
+            "name": "Andrew Bell III",
+            "occupation": "Professor and inventor",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Mercies of Knowledge I-VII",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 5,
+            "name": "Bertram",
+            "occupation": "Performer",
+            "location": "Transitory",
+            "mission": "The Smell of the Grease Paint",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 6,
+            "name": "Bray Aberdeen",
+            "occupation": "Pig farmer",
+            "location": "Aberdeen Pig Farm in Scarlett Meadows, State of Lemoyne",
+            "mission": "Random, Online",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 7,
+            "name": "Charles Châtenay",
+            "occupation": "Artist",
+            "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
+            "mission": "The Artist's Way",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 8,
+            "name": "Charlotte Balfour",
+            "occupation": "Farmer",
+            "location": "Willard's Rest in Roanoke Ridge, State of New Hanover",
+            "mission": "The Widow of Willard's Rest",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 9,
+            "name": "Deborah MacGuiness",
+            "occupation": "Paleontologist",
+            "location": "Firewood Rise in Cumberland Forest, State of New Hanover",
+            "mission": "A Test of Faith",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 10,
+            "name": "Alphonse Renaud",
+            "occupation": "Doctor",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "No Good Deed",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 11,
+            "name": "",
+            "occupation": "",
+            "location": "",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
             }
         }
     ]

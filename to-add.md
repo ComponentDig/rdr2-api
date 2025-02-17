@@ -21,38 +21,36 @@ Locations
 - [x] Paytah - supporting
 - [x] Penelope Braithwaite - supporting
 - [x] Anthony Foreman - antagonist
-
+- [x] Archie Downes
+- [x] Edith Downes
 
 
 #### debtors
 
-- [] Algie Davison 
-- [] Archie Downes
-- [] Chick Matthews
-- [] Cooper
-- [] Edith Downes
-- [] Gwyn Hughes
-- [] J.John Weathers
-- [] Lilly Millet
-- [] Mrs.Londonderry
-- [] Thomas Downes
-- [] Winton Holmes
-- [] Wrobel
+- [x] Algie Davison 
+- [x] Chick Matthews
+- [x] Cooper
+- [x] Gwyn Hughes
+- [x] J.John Weathers
+- [x] Lilly Millet
+- [x] Mrs.Londonderry
+- [x] Thomas Downes
+- [x] Winton Holmes
+- [x] Wrobel
+- [x] Arthur Londonderry
 
 #### strangers
 
-- [] Acrisius
-- [] Albert Mason
-- [] Algernon Wasp
-- [] Anders Helgeson
-- [] Andrew Bell III
-- [] Bertram
-- [] Bray Aberdeen
-- [] Charles Chatenay
-- [] Charlotte Balfour
-- [] Chelonian Master
-- [] Deborah MacGuiness
-- [] Dr.Alphonse Renaud
+- [x] Acrisius
+- [x] Albert Mason
+- [x] Algernon Wasp
+- [x] Andrew Bell III
+- [x] Bertram
+- [x] Bray Aberdeen
+- [x] Charles Chatenay
+- [x] Charlotte Balfour
+- [x] Deborah MacGuiness
+- [x] Dr.Alphonse Renaud
 - [] Edmund Lowry JR.
 - [] Evelyn Miller
 - [] Francis Sinclair
@@ -88,12 +86,12 @@ Locations
 
 #### gunslingers
 
-- [] Billy Midnight
-- [] Black Belle
-- [] Emmet Granger
-- [] Flaco Hernandez
-- [] Jim "Boy" Calloway
-- [] Slim Grant
+- [x] Billy Midnight
+- [x] Black Belle
+- [x] Emmet Granger
+- [x] Flaco Hernandez
+- [x] Jim "Boy" Calloway
+- [x] Slim Grant
 
 #### others
 
