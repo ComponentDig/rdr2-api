@@ -76,14 +76,29 @@ Locations
 - [x] Old Cajun
 - [x] Sally Nash
 - [x] Sampson Black
-- [] Tammy Aberdeen
-- [] Theodore Levin
-- [] Tommy
-- [] Vampire
-- [] Wendell White
-- [] Brother Dorkins
-- [] Sister Calderon
-- [] Tavish Gray
+- [x] Tammy Aberdeen
+- [x] Theodore Levin
+- [x] Tommy
+- [x] Vampire
+- [x] Wendell White
+- [x] Brother Dorkins
+- [x] Sister Calderon
+- [x] Tavish Gray
+- [x] Willy Curtis
+- [x] William
+- [x] Strange Man
+- [x] Sonny
+- [x] Nigel (Gavins friend)
+- [x] Mickey
+- [x] Mrs.Sinclair
+- [x] Killer Prostitute
+- [x] Lemuel
+- [x] Jean-Marc Mercier
+- [x] Hector Fellows
+- [x] Joe Butler
+
+
+
 
 #### gunslingers
 
@@ -130,18 +145,8 @@ Locations
 - [] Jenny Kirk
 - [] Mac Callender
 - [] Mary Linton
-- [] Hector Fellows
-- [] Jean-Marc Mercier
-- [] Joe Butler
-- [] Killer Prostitute
-- [] Lemuel
 - [] Jimmy Brooks
 - [] James Langton
-- [] Mrs.Sinclair
-- [] Mickey
-- [] Nigel (Gavins friend)
-- [] Sonny
-- [] Strange Man
-
+- [] Hayden Russell
 
 

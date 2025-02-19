@@ -1299,23 +1299,6 @@
         },
         {
             "id": 9,
-            "name": "Archibald MacGregor",
-            "D.O.B": "",
-            "age": "",
-            "died": "",
-            "cause of death": "",
-            "nationality": "American",
-            "gender": "Male",
-            "affiliation": "Scarlett Meadows Sheriff's Office",
-            "occupation": "Sheriff's deputy",
-            "image": {
-                "url": "",
-                "alt_text": ""
-            },
-            "additional_info": {}
-        },
-        {
-            "id": 10,
             "name": "Paytah",
             "D.O.B": "",
             "age": "",
@@ -1695,17 +1678,6 @@
             }
         },
         {
-            "id": 11,
-            "name": "",
-            "occupation": "",
-            "location": "",
-            "mission": "",
-            "image": {
-                "url": "",
-                "alt_text": ""
-            }
-        },
-        {
             "id": 12,
             "name": "Evelyn Miller",
             "occupation": "Author, Professor (formerly)",
@@ -1750,7 +1722,7 @@
             }
         },
         {
-            "id": 15,
+            "id": 16,
             "name": "Helen",
             "occupation": "",
             "location": "Valentine in The Heartlands, State of New Hanover",
@@ -1761,7 +1733,7 @@
             }
         },
         {
-            "id": 16,
+            "id": 17,
             "name": "Hermit",
             "occupation": "",
             "location": "Manito Glade in Roanoke Ridge, State of New Hanover",
@@ -1772,7 +1744,7 @@
             }
         },
         {
-            "id": 17,
+            "id": 18,
             "name": "Hermit Woman",
             "occupation": "",
             "location": "Northwest in Big Valley, State of West Elizabeth",
@@ -1783,7 +1755,7 @@
             }
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "Jeremiah Compson",
             "occupation": "Central Union Railroad Worker (formerly), Slave catcher (formerly)",
             "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
@@ -1794,7 +1766,7 @@
             }
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "Jeremy Gill",
             "occupation": "Fisherman, Writer",
             "location": "Gill Landing in Ther Heartlands, State of New Hanover",
@@ -1805,7 +1777,7 @@
             }
         },
         {
-            "id": 20,
+            "id": 21,
             "name": "Magnifico",
             "occupation": "Magician",
             "location": "Transitory",
@@ -1816,7 +1788,7 @@
             }
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "Mrs.L Hobbs",
             "occupation": "Taxidermist",
             "location": "Taxidermist House in Big Valley, State of West Elizabeth",
@@ -1827,7 +1799,7 @@
             }
         },
         {
-            "id": 22,
+            "id": 23,
             "name": "Haywood Margaret",
             "occupation": "Animal Wrangler",
             "location": "Transitory",
@@ -1838,7 +1810,7 @@
             }
         },
         {
-            "id": 23,
+            "id": 24,
             "name": "Marko Dragic",
             "occupation": "Professor and inventor",
             "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
@@ -1849,7 +1821,7 @@
             }
         },
         {
-            "id": 24,
+            "id": 25,
             "name": "Máximo Cristóbal Valdespino",
             "occupation": "Explorer",
             "location": "West of Flatneck Station in The Heartlands, State of New Hanover",
@@ -1860,7 +1832,7 @@
             }
         },
         {
-            "id": 25,
+            "id": 26,
             "name": "Miss Marjorie",
             "occupation": "Performer",
             "location": "Transitory",
@@ -1871,7 +1843,7 @@
             }
         },
         {
-            "id": 26,
+            "id": 27,
             "name": "Obediah Hinton",
             "occupation": "",
             "location": "Butchers Creek in Roanoke Ridge, State of New Hanover",
@@ -1882,7 +1854,7 @@
             }
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Old Cajun",
             "occupation": "",
             "location": "Bluewater Marsh in Bayou Nwa, State of Lemoyne",
@@ -1893,7 +1865,7 @@
             }
         },
         {
-            "id": 28,
+            "id": 29,
             "name": "Phineas T. Ramsbottom",
             "occupation": "Cartophilist & Ephemera Collector",
             "location": "Flatneck Station in The Heartlands, State of New Hanover",
@@ -1904,7 +1876,7 @@
             }
         },
         {
-            "id": 29,
+            "id": 30,
             "name": "Proteus",
             "occupation": "",
             "location": "Transitory",
@@ -1914,7 +1886,7 @@
                 "alt_text": ""
             }
         },  {
-            "id": 30,
+            "id": 31,
             "name": "Professor Shiftacre",
             "occupation": "Professor",
             "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
@@ -1925,7 +1897,7 @@
             }
         },
         {
-            "id": 31,
+            "id": 32,
             "name": "Sally Nash",
             "occupation": "Animal Handler",
             "location": "Transitory",
@@ -1936,7 +1908,7 @@
             }
         },
         {
-            "id": 32,
+            "id": 33,
             "name": "Sampson Black",
             "occupation": "",
             "location": "Transitory",
@@ -1947,10 +1919,218 @@
             }
         },
         {
-            "id": 33,
-            "name": "",
+            "id": 34,
+            "name": "Tammy Aberdeen",
+            "occupation": "Pig farmer",
+            "location": "Aberdeen Pig Farm in Scarlett Meadows, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 35,
+            "name": "Theodore Levin",
+            "occupation": "Writer",
+            "location": "Transitory",
+            "mission": "The Noblest of Men, and a Woman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 36,
+            "name": "Vampire",
             "occupation": "",
-            "location": "",
+            "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 37,
+            "name": "Wendell White",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "The Ties That Bind Us",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 38,
+            "name": "Willy Curtis",
+            "occupation": "Gunslinger",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 39,
+            "name": "William",
+            "occupation": "Herbalist",
+            "location": "Transitory",
+            "mission": "To the Ends of the Earth",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 40,
+            "name": "Brother Dorkins",
+            "occupation": "Monk",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Help a Brother Out, Brothers and Sisters, One and All",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 41,
+            "name": "Sister Calderón",
+            "occupation": "Nun",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Brothers and Sisters, One and All, The Fine Art of Conversation",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 42,
+            "name": "Tavish Gray",
+            "occupation": "",
+            "location": "Caliga Hall plantation in Bayou Nwa, State of Lemoyne",
+            "mission": "Horse Flesh for Dinner",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },  
+        {
+            "id": 43,
+            "name": "Tommy",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "Americans at Rest",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 44,
+            "name": "Strange Man",
+            "occupation": "",
+            "location": "Bayall Edge in Bayou Nwa, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 45,
+            "name": "Sonny",
+            "occupation": "",
+            "location": "Bayou Nwa, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 46,
+            "name": "Nigel",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 47,
+            "name": "Mickey",
+            "occupation": "Former soldier in the U.S Army",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 48,
+            "name": "Mrs.Sinclair",
+            "occupation": "",
+            "location": "Northwest in Big Valley, State of West Elizabeth",
+            "mission": "Geology for Beginners",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 49,
+            "name": "Killer Prostitute",
+            "occupation": "Prostitute",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },  {
+            "id": 50,
+            "name": "Lemuel",
+            "occupation": "",
+            "location": "Butchers Creek in Roanoke Ridge, State of New Hanover",
+            "mission": "The Wisdom of the Elders",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 51,
+            "name": "Jean-Marc Mercier",
+            "occupation": "Deputy mayor Of Saint Denis",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Gilded Cage, Idealism and Pragmatism for Beginners I-III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 52,
+            "name": "Hector Fellows",
+            "occupation": "Newspaper publisher",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Idealism and Pragmatism for Beginners II",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 53,
+            "name": "Joe Butler",
+            "occupation": "Former Confederate soldier",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
             "mission": "",
             "image": {
                 "url": "",
