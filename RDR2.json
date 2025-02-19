@@ -2137,5 +2137,147 @@
                 "alt_text": ""
             }
         }
+    ],
+    "other": [
+        {
+            "id": 1,
+            "name": "Abe",
+            "occupation": "Ranch hand",
+            "location": "Pronghorn Ranch in Big Valley, State of West Elizabeth",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 2,
+            "name": "Agent Bunter",
+            "occupation": "Pinkerton Detective",
+            "location": "Shady Belle in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 3,
+            "name": "Agent Johns",
+            "occupation": "Pinkerton Detective",
+            "location": "Shady Belle in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 4,
+            "name": "Agent Orly",
+            "occupation": "Pinkerton Detective",
+            "location": "Shady Belle in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },  {
+            "id": 5,
+            "name": "Albert Cakes",
+            "occupation": "Entrepreneur",
+            "location": "Blackwater in Great Plains, Sate of West Elizabeth",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 6,
+            "name": "Alden Carruthers",
+            "occupation": "Station Clerk",
+            "location": "Rhodes trainstation in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 7,
+            "name": "Aldridge T. Abbington",
+            "occupation": "Presenter",
+            "location": "Theater in Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },  {
+            "id": 8,
+            "name": "Anastasia",
+            "occupation": "Prostitute",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 9,
+            "name": "Anders Anderson",
+            "occupation": "Outlaw",
+            "location": "Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 10,
+            "name": "Anders Helgerson",
+            "occupation": "Religious Leader",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },  {
+            "id": 11,
+            "name": "Andreas",
+            "occupation": "Gold Dealer",
+            "location": "Transitory",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 12,
+            "name": "Angel",
+            "occupation": "Interrogator",
+            "location": "Guarma",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 13,
+            "name": "Ansel Atherton",
+            "occupation": "Banker",
+            "location": "Blackwater in Great Plains, Sate of West Elizabeth",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        }
     ]
 }

@@ -23,8 +23,6 @@ Locations
 - [x] Anthony Foreman - antagonist
 - [x] Archie Downes
 - [x] Edith Downes
-- [] Hayden Russell
-- [] Foundraiser Woman
 
 
 #### debtors
@@ -111,26 +109,112 @@ Locations
 
 #### others
 
-- [] Albert Cakes
-- [] Alden Carruthers
-- [] Aldridge T. Abbington
-- [] Ansel Atherton
+- [x] Abe
+- [x] Agent Bunter
+- [x] Agent Johns
+- [x] Agent Orly
+- [x] Albert Cakes
+- [x] Alden Carruthers
+- [x] Aldridge T. Abbington
+- [x] Anastasia
+- [x] Anders Anderson
+- [x] Anders Helgerson
+- [x] Andreas
+- [x] Angel
+- [x] Ansel Atherton
+- [] Antoinette Sanseverino
+- [] Ashton 
 - [] Arturo Bullard
+- [] Baptiste
+- [] Bartholomew Braithwaite
 - [] Benjamin Lambert
+- [] Benjamin Lazarus
+- [] Billy Lime
+- [] Blind man Cassidy
+- [] Bobbie
+- [] Bob Brownlee
+- [] Bob Crawford Jr
+- [] Bob Crawford Sr
+- [] Brynn Tildon
+- [] Bubba
+- [] Camilla McClair
+- [] Chester Damsen
+- [] Cleet
+- [] Curtis
 - [] Clay Davies
 - [] Clive Davies
 - [] Curtis Malloy
+- [] Danbury
+- [] Desmond Blythe
+- [] Didsbury
+- [] Dorothea Wicklow
 - [] Devon
+- [] Earl
+- [] Edgar Watson
+- [] Elijah Watson
+- [] Ethan Watson
+- [] Etta Buckley
+- [] Ezra Watson
+- [] Ferdinand
+- [] Gareth Braithwaite
+- [] Gerald Braithwaite
+- [] Gilbert Knightley
+- [] Gloria
+- [] Good Samaritan
+- [] Hamish
 - [] Hanley
 - [] Harmon Thomas
 - [] Hector Barlow
 - [] Herbert Moon
+- [] Hobart Crawley
+- [] Hortensia
+- [] Iian Gray
+- [] Jansen
+- [] Jeb Jones III
+- [] Jorge
+- [] Jon
+- [] Jules
+- [] Laramie gang leader
+- [] Leon Fuentes
+- [] Lillian Powell
+- [] Logging Foreman
+- [] Luther
+- [] Mabel
+- [] Malcolm MacIntosh
+- [] Mama Watson
+- [] Marco
+- [] Marvin
+- [] Meredith Buckley
+- [] Moira Calthorpe
+- [] Morris Peyton
+- [] Mr. Devon
+- [] Mr. Dockery
+- [] Norbert
+- [] Norman
+- [] Norris Forsythe
+- [] Nicholas Timmins
+- [] Nils
+- [] Olive Calhoon
 - [] Oswald Dunbar
 - [] Palmer
+- [] Percy Whitsickle
+- [] Peer Fotheringham
+- [] Pit Boss
+- [] Poor Joe
+- [] Randal
+- [] Robin Koninsky
+- [] Ruprecht O'Keith
+- [] Shaman
+- [] Scott Gray
+- [] Soothsayer
 - [] Sam Freeman
 - [] Seamus
 - [] Thomas "skiff captain"
 - [] Trapper
+- [] Timothy A. Donahue
+- [] The Mysterious Maya
+- [] Thomas
+- [] Tree Hermit
 - [] Vernon Farley
 - [] Willard Wayne
 - [] Angus Geddes
@@ -146,7 +230,8 @@ Locations
 - [] Mac Callender
 - [] Mary Linton
 - [] Jimmy Brooks
-- [] James Langton
+- [] James Langton ?
 - [] Hayden Russell
+- [] Foundraiser Woman
 
 
