@@ -61,23 +61,21 @@ Locations
 - [x] Helen
 - [x] Hermit
 - [x] Hermit Woman
-- [] James Langton
 - [x] Jeremiah Compson
-- [] Jeremy Gill
-- [] Jimmy Brooks
-- [] Magnifico
-- [] Margaret
-- [] Marko Dragic
-- [] Maximo Cristobal Valdespino
-- [] Miss Marjorie
-- [] Mrs.L Hobbs
-- [] Nigel (Gavins friend)
-- [] Obediah Hinton
-- [] Phineas T. Ramsbottom
-- [] Proetus
-- [] Professor Shiftacre
-- [] Sally Nash
-- [] Sampson Black
+- [x] Jeremy Gill
+- [x] Magnifico
+- [x] Margaret
+- [x] Marko Dragic
+- [x] Maximo Cristobal Valdespino
+- [x] Miss Marjorie
+- [x] Mrs.L Hobbs
+- [x] Obediah Hinton
+- [x] Phineas T. Ramsbottom
+- [x] Proetus
+- [x] Professor Shiftacre
+- [x] Old Cajun
+- [x] Sally Nash
+- [x] Sampson Black
 - [] Tammy Aberdeen
 - [] Theodore Levin
 - [] Tommy
@@ -134,3 +132,16 @@ Locations
 - [] Mary Linton
 - [] Hector Fellows
 - [] Jean-Marc Mercier
+- [] Joe Butler
+- [] Killer Prostitute
+- [] Lemuel
+- [] Jimmy Brooks
+- [] James Langton
+- [] Mrs.Sinclair
+- [] Mickey
+- [] Nigel (Gavins friend)
+- [] Sonny
+- [] Strange Man
+
+
+

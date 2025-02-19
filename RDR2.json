@@ -1792,6 +1792,170 @@
                 "url": "",
                 "alt_text": ""
             }
+        },
+        {
+            "id": 19,
+            "name": "Jeremy Gill",
+            "occupation": "Fisherman, Writer",
+            "location": "Gill Landing in Ther Heartlands, State of New Hanover",
+            "mission": "A Fisher of Fish",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 20,
+            "name": "Magnifico",
+            "occupation": "Magician",
+            "location": "Transitory",
+            "mission": "The Smell of the Grease Paint",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 21,
+            "name": "Mrs.L Hobbs",
+            "occupation": "Taxidermist",
+            "location": "Taxidermist House in Big Valley, State of West Elizabeth",
+            "mission": "A Better World, A New Friend",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 22,
+            "name": "Haywood Margaret",
+            "occupation": "Animal Wrangler",
+            "location": "Transitory",
+            "mission": "He's British, of Course",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 23,
+            "name": "Marko Dragic",
+            "occupation": "Professor and inventor",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "A Bright Bouncing Boy",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 24,
+            "name": "Máximo Cristóbal Valdespino",
+            "occupation": "Explorer",
+            "location": "West of Flatneck Station in The Heartlands, State of New Hanover",
+            "mission": "All That Glitters",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 25,
+            "name": "Miss Marjorie",
+            "occupation": "Performer",
+            "location": "Transitory",
+            "mission": "The Smell of the Grease Paint",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 26,
+            "name": "Obediah Hinton",
+            "occupation": "",
+            "location": "Butchers Creek in Roanoke Ridge, State of New Hanover",
+            "mission": "The Wisdom of the Elders",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 27,
+            "name": "Old Cajun",
+            "occupation": "",
+            "location": "Bluewater Marsh in Bayou Nwa, State of Lemoyne",
+            "mission": "A Fine Night For It",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 28,
+            "name": "Phineas T. Ramsbottom",
+            "occupation": "Cartophilist & Ephemera Collector",
+            "location": "Flatneck Station in The Heartlands, State of New Hanover",
+            "mission": "Smoking and oher Hobbies",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 29,
+            "name": "Proteus",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "Oh Brother I, II, III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },  {
+            "id": 30,
+            "name": "Professor Shiftacre",
+            "occupation": "Professor",
+            "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
+            "mission": "Idealism and Pragmatism for Beginners I-III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 31,
+            "name": "Sally Nash",
+            "occupation": "Animal Handler",
+            "location": "Transitory",
+            "mission": "He's British, of Course III-IV",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 32,
+            "name": "Sampson Black",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "The Ties That Bind Us",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 33,
+            "name": "",
+            "occupation": "",
+            "location": "",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
         }
     ]
 }
