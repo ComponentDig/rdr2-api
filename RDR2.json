@@ -1685,10 +1685,109 @@
         },
         {
             "id": 11,
+            "name": "Edmund Lowry JR",
+            "occupation": "Serial Killer",
+            "location": "Lucky's Cabin in The Heartlands, State of New Hanover",
+            "mission": "American Dreams",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 11,
             "name": "",
             "occupation": "",
             "location": "",
             "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 12,
+            "name": "Evelyn Miller",
+            "occupation": "Author, Professor (formerly)",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Gilded Cage, American Fathers I, The American Inferno, Burnt Out",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 13,
+            "name": "Francis Sinclair",
+            "occupation": "Collector",
+            "location": "Outside Strawberry in Big Valley, State of West Elizabeth",
+            "mission": "Geology for Beginners",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 14,
+            "name": "Hamish Sinclair",
+            "occupation": "Soldier (formerly), Hunter",
+            "location": "Veteran's Homestead in Grizzlies East, State of Ambarino",
+            "mission": "The Veteran I-IV",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 15,
+            "name": "Henri Lemieux",
+            "occupation": "Mayor of Saint Denis",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Gilded Cage, Idealism and Pragmatism for Beginners I-III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 15,
+            "name": "Helen",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "Oh Brother",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 16,
+            "name": "Hermit",
+            "occupation": "",
+            "location": "Manito Glade in Roanoke Ridge, State of New Hanover",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 17,
+            "name": "Hermit Woman",
+            "occupation": "",
+            "location": "Northwest in Big Valley, State of West Elizabeth",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 18,
+            "name": "Jeremiah Compson",
+            "occupation": "Central Union Railroad Worker (formerly), Slave catcher (formerly)",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "The Inquities of History",
             "image": {
                 "url": "",
                 "alt_text": ""

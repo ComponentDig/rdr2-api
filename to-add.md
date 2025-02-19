@@ -23,6 +23,8 @@ Locations
 - [x] Anthony Foreman - antagonist
 - [x] Archie Downes
 - [x] Edith Downes
+- [] Hayden Russell
+- [] Foundraiser Woman
 
 
 #### debtors
@@ -51,15 +53,16 @@ Locations
 - [x] Charlotte Balfour
 - [x] Deborah MacGuiness
 - [x] Dr.Alphonse Renaud
-- [] Edmund Lowry JR.
-- [] Evelyn Miller
-- [] Francis Sinclair
-- [] Hamish Sinclair
-- [] Helen
-- [] Hermit
-- [] Hermit Woman
+- [x] Edmund Lowry JR.
+- [x] Evelyn Miller
+- [x] Francis Sinclair
+- [x] Hamish Sinclair
+- [x] Henri Lemieux
+- [x] Helen
+- [x] Hermit
+- [x] Hermit Woman
 - [] James Langton
-- [] Jeremiah Compson
+- [x] Jeremiah Compson
 - [] Jeremy Gill
 - [] Jimmy Brooks
 - [] Magnifico
@@ -108,7 +111,6 @@ Locations
 - [] Hanley
 - [] Harmon Thomas
 - [] Hector Barlow
-- [] Henri Lemieux
 - [] Herbert Moon
 - [] Oswald Dunbar
 - [] Palmer
@@ -130,4 +132,5 @@ Locations
 - [] Jenny Kirk
 - [] Mac Callender
 - [] Mary Linton
-
+- [] Hector Fellows
+- [] Jean-Marc Mercier
