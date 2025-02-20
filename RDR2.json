@@ -2278,6 +2278,442 @@
                 "url": "",
                 "alt_text": ""
             }
+        },
+        {
+            "id": 14,
+            "name": "Angus Geddes",
+            "occupation": "Ranch hand on Pronghorn Ranch",
+            "location": "Pronghorn Ranch in Big Valley, State of West Elizabeth",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 15,
+            "name": "Antoinette Sanseverino",
+            "occupation": "Enertainer",
+            "location": "Theater in Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 16,
+            "name": "Arturo Bullard",
+            "occupation": "Aviator",
+            "location": "Sate of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 17,
+            "name": "Ashton",
+            "occupation": "Loan Shark, Merchant",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Optional Honor Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 18,
+            "name": "Baptiste",
+            "occupation": "Smuggler",
+            "location": "Guarma",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 19,
+            "name": "Bartholomew Braithwaite",
+            "occupation": "",
+            "location": "Braithwaite Manor in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 20,
+            "name": "Benjamin Lazarus",
+            "occupation": "Magician",
+            "location": "Theater in Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 21,
+            "name": "Billy Lime",
+            "occupation": "Moonshiner",
+            "location": "Outside Rhodes in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 22,
+            "name": "Blind Man Cassidy",
+            "occupation": "Beggar, Fortune Teller",
+            "location": "Transitory",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 23,
+            "name": "Bobbie",
+            "occupation": "Outlaw",
+            "location": "Transitory",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 24,
+            "name": "Bob Brownlee",
+            "occupation": "",
+            "location": "Transitory",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 25,
+            "name": "Bob Crawford Jr",
+            "occupation": "Rancher",
+            "location": "Carmody Dell in The Heartlands, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 26,
+            "name": "Bob Crawford Sr",
+            "occupation": "Rancher",
+            "location": "Carmody Dell in The Heartlands, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 27,
+            "name": "Brynn Tildon",
+            "occupation": "Journalist",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 28,
+            "name": "Bubba",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 29,
+            "name": "Camilla McClair",
+            "occupation": "",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 30,
+            "name": "Chester Damsen",
+            "occupation": "Singer",
+            "location": "Outside Rhodes in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 31,
+            "name": "Cleet",
+            "occupation": "Street kid",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 32,
+            "name": "Curtis",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 33,
+            "name": "Danbury",
+            "occupation": "Foreman",
+            "location": "Cornwall Kerosene & Tar in The Heartlands, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 34,
+            "name": "Desmond Blythe",
+            "occupation": "Businessman",
+            "location": "On a Riverboat outside the City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 35,
+            "name": "Didsbury",
+            "occupation": "Miner",
+            "location": "Town of Annesburg in Roanoke Ridge, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },    {
+            "id": 36,
+            "name": "Dorothea Wicklow",
+            "occupation": "Activist",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 37,
+            "name": "Duncan Geddes",
+            "occupation": "",
+            "location": "Pronghorn Ranch in Big Valley, State of West Elizabeth",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 38,
+            "name": "Earl",
+            "occupation": "Outlaw",
+            "location": "Transitory",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 39,
+            "name": "Edgar Watson",
+            "occupation": "Outlaw",
+            "location": "Watson's Cabin in Big Valley, State of West Elizabeth",
+            "encounter": "Robbery",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },    {
+            "id": 40,
+            "name": "Elijah Watson",
+            "occupation": "Outlaw",
+            "location": "Watson's Cabin in Big Valley, State of West Elizabeth",
+            "encounter": "Robbery",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },    {
+            "id": 41,
+            "name": "Ethan Watson",
+            "occupation": "Outlaw",
+            "location": "Watson's Cabin in Big Valley, State of West Elizabeth",
+            "encounter": "Robbery",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 42,
+            "name": "Etta Buckley",
+            "occupation": "",
+            "location": "Town of Annesburg in Roanoke Ridge, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 43,
+            "name": "Ezra Watson",
+            "occupation": "Outlaw",
+            "location": "Watson's Cabin in Big Valley, State of West Elizabeth",
+            "encounter": "Robbery",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },    
+        {
+            "id": 44,
+            "name": "Ferdinand",
+            "occupation": "",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 45,
+            "name": "Gareth Braithwaite",
+            "occupation": "",
+            "location": "Braithwaite Manor in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },    {
+            "id": 46,
+            "name": "Gerald Braithwaite",
+            "occupation": "",
+            "location": "Braithwaite Manor in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 47,
+            "name": "Gilbert Knightley",
+            "occupation": "Investment Banker",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },    
+        {
+            "id": 48,
+            "name": "Gloria",
+            "occupation": "",
+            "location": "Guarma",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 49,
+            "name": "Good Samaritan",
+            "occupation": "",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 50,
+            "name": "Hamish",
+            "occupation": "Guardsman",
+            "location": "Caliga Hall plantation in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 51,
+            "name": "Hector Barlow",
+            "occupation": "Station Clerk",
+            "location": "Strawberry Postal Depot in Big Valley, State of West Elizabeth",
+            "encounter": "Optional Robbery",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 52,
+            "name": "Hobart Crawley",
+            "occupation": "Former Army Major, Businessman",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 53,
+            "name": "Hortensia",
+            "occupation": "Strongwoman, Performer",
+            "location": "Theater in Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
         }
     ]
 }

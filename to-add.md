@@ -122,52 +122,44 @@ Locations
 - [x] Andreas
 - [x] Angel
 - [x] Ansel Atherton
-- [] Antoinette Sanseverino
-- [] Ashton 
-- [] Arturo Bullard
-- [] Baptiste
-- [] Bartholomew Braithwaite
-- [] Benjamin Lambert
-- [] Benjamin Lazarus
-- [] Billy Lime
-- [] Blind man Cassidy
-- [] Bobbie
-- [] Bob Brownlee
-- [] Bob Crawford Jr
-- [] Bob Crawford Sr
-- [] Brynn Tildon
-- [] Bubba
-- [] Camilla McClair
-- [] Chester Damsen
-- [] Cleet
-- [] Curtis
-- [] Clay Davies
-- [] Clive Davies
-- [] Curtis Malloy
-- [] Danbury
-- [] Desmond Blythe
-- [] Didsbury
-- [] Dorothea Wicklow
-- [] Devon
-- [] Earl
-- [] Edgar Watson
-- [] Elijah Watson
-- [] Ethan Watson
-- [] Etta Buckley
-- [] Ezra Watson
-- [] Ferdinand
-- [] Gareth Braithwaite
-- [] Gerald Braithwaite
-- [] Gilbert Knightley
-- [] Gloria
-- [] Good Samaritan
-- [] Hamish
-- [] Hanley
-- [] Harmon Thomas
-- [] Hector Barlow
-- [] Herbert Moon
-- [] Hobart Crawley
-- [] Hortensia
+- [x] Antoinette Sanseverino
+- [x] Ashton 
+- [x] Arturo Bullard
+- [x] Baptiste
+- [x] Bartholomew Braithwaite
+- [x] Benjamin Lazarus
+- [x] Billy Lime
+- [x] Blind man Cassidy
+- [x] Bobbie
+- [x] Bob Brownlee
+- [x] Bob Crawford Jr
+- [x] Bob Crawford Sr
+- [x] Brynn Tildon
+- [x] Bubba
+- [x] Camilla McClair
+- [x] Chester Damsen
+- [x] Cleet
+- [x] Curtis
+- [x] Danbury
+- [x] Desmond Blythe
+- [x] Didsbury
+- [x] Dorothea Wicklow
+- [x] Earl
+- [x] Edgar Watson
+- [x] Elijah Watson
+- [x] Ethan Watson
+- [x] Etta Buckley
+- [x] Ezra Watson
+- [x] Ferdinand
+- [x] Gareth Braithwaite
+- [x] Gerald Braithwaite
+- [x] Gilbert Knightley
+- [x] Gloria
+- [x] Good Samaritan
+- [x] Hamish
+- [x] Hector Barlow
+- [x] Hobart Crawley
+- [x] Hortensia
 - [] Iian Gray
 - [] Jansen
 - [] Jeb Jones III
@@ -217,8 +209,8 @@ Locations
 - [] Tree Hermit
 - [] Vernon Farley
 - [] Willard Wayne
-- [] Angus Geddes
-- [] Duncan Geddes
+- [x] Angus Geddes
+- [x] Duncan Geddes
 - [] Mrs.Geddes
 - [] Jamie Gillis
 - [] Mr.Gillis
@@ -230,8 +222,17 @@ Locations
 - [] Mac Callender
 - [] Mary Linton
 - [] Jimmy Brooks
-- [] James Langton ?
 - [] Hayden Russell
 - [] Foundraiser Woman
 
 
+
+
+- [] Clay Davies
+- [] Clive Davies
+- [] Benjamin Lambert ?
+- [] James Langton ?
+- [] Curtis Malloy
+- [] Hanley
+- [] Harmon Thomas
+- [] Herbert Moon
