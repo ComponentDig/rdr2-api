@@ -1769,7 +1769,7 @@
             "id": 20,
             "name": "Jeremy Gill",
             "occupation": "Fisherman, Writer",
-            "location": "Gill Landing in Ther Heartlands, State of New Hanover",
+            "location": "Gill Landing in The Heartlands, State of New Hanover",
             "mission": "A Fisher of Fish",
             "image": {
                 "url": "",
@@ -1869,7 +1869,7 @@
             "name": "Phineas T. Ramsbottom",
             "occupation": "Cartophilist & Ephemera Collector",
             "location": "Flatneck Station in The Heartlands, State of New Hanover",
-            "mission": "Smoking and oher Hobbies",
+            "mission": "Smoking and other Hobbies",
             "image": {
                 "url": "",
                 "alt_text": ""
@@ -2197,7 +2197,7 @@
             "id": 6,
             "name": "Alden Carruthers",
             "occupation": "Station Clerk",
-            "location": "Rhodes trainstation in Scarlett Meadows, State of Lemoyne",
+            "location": "Rhodes train station in Scarlett Meadows, State of Lemoyne",
             "encounter": "Mission",
             "image": {
                 "url": "",
@@ -2293,7 +2293,7 @@
         {
             "id": 15,
             "name": "Antoinette Sanseverino",
-            "occupation": "Enertainer",
+            "occupation": "Entertainer",
             "location": "Theater in Saint Denis in Bayou Nwa, State of Lemoyne",
             "encounter": "",
             "image": {
