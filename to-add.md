@@ -160,14 +160,14 @@ Locations
 - [x] Hector Barlow
 - [x] Hobart Crawley
 - [x] Hortensia
-- [] Iian Gray
-- [] Jansen
-- [] Jeb Jones III
-- [] Jorge
-- [] Jon
-- [] Jules
-- [] Laramie gang leader
-- [] Leon Fuentes
+- [x] Iian Gray
+- [x] Jansen
+- [x] Jeb Jones III
+- [x] Jorge
+- [x] Jon
+- [x] Jules
+- [x] Laramie gang leader
+- [x] Leon Fuentes
 - [] Lillian Powell
 - [] Logging Foreman
 - [] Luther
@@ -221,7 +221,7 @@ Locations
 - [] Jenny Kirk
 - [] Mac Callender
 - [] Mary Linton
-- [] Jimmy Brooks
+- [x] Jimmy Brooks
 - [] Hayden Russell
 - [] Foundraiser Woman
 

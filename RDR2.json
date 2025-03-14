@@ -2714,6 +2714,116 @@
                 "url": "",
                 "alt_text": ""
             }
+        },
+        {
+            "id": 54,
+            "name": "Iian Gray",
+            "occupation": "",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 55,
+            "name": "Jansen",
+            "occupation": "Secretary for Leviticus Cornwall",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 56,
+            "name": "Jeb Jones III",
+            "occupation": "Train Guard for Leviticus Cornwall",
+            "location": "",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 57,
+            "name": "Jimmy Brooks",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 57,
+            "name": "Jorge",
+            "occupation": "Outlaw",
+            "location": "Venter's Place in Cholla Springs, State of New Austin",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 58,
+            "name": "Jon",
+            "occupation": "Frontiersman",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "encounter": "Random",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 59,
+            "name": "Jules",
+            "occupation": "Fisherman",
+            "location": "Lagras in Bayou Nwa, State of Lemoyne",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 60,
+            "name": "Laramie Gang Leader",
+            "occupation": "Gang Leader",
+            "location": "Hanging Dog Ranch in Big Valley, State of West Elizabeth",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 61,
+            "name": "Leon Fuentes",
+            "occupation": "Revolutionary",
+            "location": "Guarma",
+            "encounter": "Mission",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 62,
+            "name": "",
+            "occupation": "",
+            "location": "",
+            "encounter": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
         }
     ]
 }
