@@ -1,0 +1,225 @@
+{
+    "antagonists": [
+        {
+            "id": 1,
+            "name": "Colm O'Driscoll",
+            "D.O.B": "1849",
+            "age": "50",
+            "died": "1899",
+            "cause of death": "Hanged for his crimes",
+            "nationality": "Irish",
+            "gender": "Male",
+            "affiliation": "O'Driscoll Boys (Leader)",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 2,
+            "name": "Alberto Fussar",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot by cannon by Arthur Morgan",
+            "nationality": "Cuban",
+            "gender": "Male",
+            "affiliation": "Cuban Military",
+            "occupation": "Governor of Guarma",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 3,
+            "name": "Andrew Milton",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot in the head by Abigail Roberts",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Pinkerton National Detective Agency",
+            "occupation": "Pinkerton Detective",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 4,
+            "name": "Angelo Bronte",
+            "D.O.B": "ca 1844",
+            "age": "ca 55",
+            "died": "1899",
+            "cause of death": "Drowned by Dutch Van Der Linde",
+            "nationality": "Italian",
+            "gender": "Male",
+            "affiliation": "Saint Denis Mob",
+            "occupation": "Crimeboss, Businessman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 5,
+            "name": "Catherine Braithwaite",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Burned to death",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Braithwaite Family",
+            "occupation": "Matriarch of Braithwaite family",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 6,
+            "name": "Henry Favours",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot by Arthur Morgan",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "United States Army",
+            "occupation": "Colonel in the United States Army",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 7,
+            "name": "Edgar Ross",
+            "D.O.B": "",
+            "age": "",
+            "died": "1914",
+            "cause of death": "Shot by Jack Marston",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Pinkerton National Detective Agency (formerly), Bureau of Investigation",
+            "occupation": "Former Pinkerton Detective, Chief of Bureau of Investigation",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 8,
+            "name": "Leigh Gray",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot by Arthur Morgan",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Gray Family, Scarlett Meadows Sheriff's Office",
+            "occupation": "Sheriff of Scarlet Meadows County",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 9,
+            "name": "Leviticus Cornwall",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot by Dutch Van Der Linde",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Cornwall Kerosene & Tar, Pinkerton Agency",
+            "occupation": "Businessman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 10,
+            "name": "Levi Simon",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot by ship captain in Guarma",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Cuban Military, Alberto Fussar",
+            "occupation": "Overseer of Guarma sugar plantations, right hand man of Alberto Fussar",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 11,
+            "name": "Cleet",
+            "D.O.B": "",
+            "age": "",
+            "died": "1907",
+            "cause of death": "Hanged by John Marston/Shot by Sadie Adler",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Micah Bell (formerly), Van Der Linde gang (formerly)",
+            "occupation": "Outlaw, hired gunman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 12,
+            "name": "Joe",
+            "D.O.B": "",
+            "age": "",
+            "died": "1907",
+            "cause of death": "Shot by John Marston",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Micah Bell, Van Der Linde gang (formerly)",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 13,
+            "name": "Anthony Foreman",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Stabbed by Arthur Morgan",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Foreman Brothers (leader)",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "strangers": [
+        {
+            "id": 1,
+            "name": "Acrisius",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "Oh Brother I, II, III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 2,
+            "name": "Albert Mason",
+            "occupation": "Wildlife photographer",
+            "location": "Transitory",
+            "mission": "Arcadia For Amateurs",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 3,
+            "name": "Algernon Wasp",
+            "occupation": "Milliner",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Duchesses and other Animals",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 4,
+            "name": "Andrew Bell III",
+            "occupation": "Professor and inventor",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Mercies of Knowledge I-VII",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 5,
+            "name": "Bertram",
+            "occupation": "Performer",
+            "location": "Transitory",
+            "mission": "The Smell of the Grease Paint",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 6,
+            "name": "Bray Aberdeen",
+            "occupation": "Pig farmer",
+            "location": "Aberdeen Pig Farm in Scarlett Meadows, State of Lemoyne",
+            "mission": "Random, Online",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 7,
+            "name": "Charles Châtenay",
+            "occupation": "Artist",
+            "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
+            "mission": "The Artist's Way",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 8,
+            "name": "Charlotte Balfour",
+            "occupation": "Farmer",
+            "location": "Willard's Rest in Roanoke Ridge, State of New Hanover",
+            "mission": "The Widow of Willard's Rest",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 9,
+            "name": "Deborah MacGuiness",
+            "occupation": "Paleontologist",
+            "location": "Firewood Rise in Cumberland Forest, State of New Hanover",
+            "mission": "A Test of Faith",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 10,
+            "name": "Alphonse Renaud",
+            "occupation": "Doctor",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "No Good Deed",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 11,
+            "name": "Edmund Lowry JR",
+            "occupation": "Serial Killer",
+            "location": "Lucky's Cabin in The Heartlands, State of New Hanover",
+            "mission": "American Dreams",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 12,
+            "name": "Evelyn Miller",
+            "occupation": "Author, Professor (formerly)",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Gilded Cage, American Fathers I, The American Inferno, Burnt Out",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 13,
+            "name": "Francis Sinclair",
+            "occupation": "Collector",
+            "location": "Outside Strawberry in Big Valley, State of West Elizabeth",
+            "mission": "Geology for Beginners",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 14,
+            "name": "Hamish Sinclair",
+            "occupation": "Soldier (formerly), Hunter",
+            "location": "Veteran's Homestead in Grizzlies East, State of Ambarino",
+            "mission": "The Veteran I-IV",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 15,
+            "name": "Henri Lemieux",
+            "occupation": "Mayor of Saint Denis",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Gilded Cage, Idealism and Pragmatism for Beginners I-III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 16,
+            "name": "Helen",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "Oh Brother",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 17,
+            "name": "Hermit",
+            "occupation": "",
+            "location": "Manito Glade in Roanoke Ridge, State of New Hanover",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 18,
+            "name": "Hermit Woman",
+            "occupation": "",
+            "location": "Northwest in Big Valley, State of West Elizabeth",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 19,
+            "name": "Jeremiah Compson",
+            "occupation": "Central Union Railroad Worker (formerly), Slave catcher (formerly)",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "The Inquities of History",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 20,
+            "name": "Jeremy Gill",
+            "occupation": "Fisherman, Writer",
+            "location": "Gill Landing in The Heartlands, State of New Hanover",
+            "mission": "A Fisher of Fish",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 21,
+            "name": "Magnifico",
+            "occupation": "Magician",
+            "location": "Transitory",
+            "mission": "The Smell of the Grease Paint",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 22,
+            "name": "Mrs.L Hobbs",
+            "occupation": "Taxidermist",
+            "location": "Taxidermist House in Big Valley, State of West Elizabeth",
+            "mission": "A Better World, A New Friend",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 23,
+            "name": "Haywood Margaret",
+            "occupation": "Animal Wrangler",
+            "location": "Transitory",
+            "mission": "He's British, of Course",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 24,
+            "name": "Marko Dragic",
+            "occupation": "Professor and inventor",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "A Bright Bouncing Boy",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 25,
+            "name": "Máximo Cristóbal Valdespino",
+            "occupation": "Explorer",
+            "location": "West of Flatneck Station in The Heartlands, State of New Hanover",
+            "mission": "All That Glitters",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 26,
+            "name": "Miss Marjorie",
+            "occupation": "Performer",
+            "location": "Transitory",
+            "mission": "The Smell of the Grease Paint",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 27,
+            "name": "Obediah Hinton",
+            "occupation": "",
+            "location": "Butchers Creek in Roanoke Ridge, State of New Hanover",
+            "mission": "The Wisdom of the Elders",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 28,
+            "name": "Old Cajun",
+            "occupation": "",
+            "location": "Bluewater Marsh in Bayou Nwa, State of Lemoyne",
+            "mission": "A Fine Night For It",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 29,
+            "name": "Phineas T. Ramsbottom",
+            "occupation": "Cartophilist & Ephemera Collector",
+            "location": "Flatneck Station in The Heartlands, State of New Hanover",
+            "mission": "Smoking and other Hobbies",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 30,
+            "name": "Proteus",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "Oh Brother I, II, III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 31,
+            "name": "Professor Shiftacre",
+            "occupation": "Professor",
+            "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
+            "mission": "Idealism and Pragmatism for Beginners I-III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 32,
+            "name": "Sally Nash",
+            "occupation": "Animal Handler",
+            "location": "Transitory",
+            "mission": "He's British, of Course III-IV",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 33,
+            "name": "Sampson Black",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "The Ties That Bind Us",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 34,
+            "name": "Tammy Aberdeen",
+            "occupation": "Pig farmer",
+            "location": "Aberdeen Pig Farm in Scarlett Meadows, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 35,
+            "name": "Theodore Levin",
+            "occupation": "Writer",
+            "location": "Transitory",
+            "mission": "The Noblest of Men, and a Woman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 36,
+            "name": "Vampire",
+            "occupation": "",
+            "location": "City of Saint Denise in Bayou Nwa, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 37,
+            "name": "Wendell White",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "The Ties That Bind Us",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 38,
+            "name": "Willy Curtis",
+            "occupation": "Gunslinger",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 39,
+            "name": "William",
+            "occupation": "Herbalist",
+            "location": "Transitory",
+            "mission": "To the Ends of the Earth",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 40,
+            "name": "Brother Dorkins",
+            "occupation": "Monk",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Help a Brother Out, Brothers and Sisters, One and All",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 41,
+            "name": "Sister Calderón",
+            "occupation": "Nun",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Brothers and Sisters, One and All, The Fine Art of Conversation",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 42,
+            "name": "Tavish Gray",
+            "occupation": "",
+            "location": "Caliga Hall plantation in Bayou Nwa, State of Lemoyne",
+            "mission": "Horse Flesh for Dinner",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 43,
+            "name": "Tommy",
+            "occupation": "",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "Americans at Rest",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 44,
+            "name": "Strange Man",
+            "occupation": "",
+            "location": "Bayall Edge in Bayou Nwa, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 45,
+            "name": "Sonny",
+            "occupation": "",
+            "location": "Bayou Nwa, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 46,
+            "name": "Nigel",
+            "occupation": "",
+            "location": "Transitory",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 47,
+            "name": "Mickey",
+            "occupation": "Former soldier in the U.S Army",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 48,
+            "name": "Mrs.Sinclair",
+            "occupation": "",
+            "location": "Northwest in Big Valley, State of West Elizabeth",
+            "mission": "Geology for Beginners",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 49,
+            "name": "Killer Prostitute",
+            "occupation": "Prostitute",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 50,
+            "name": "Lemuel",
+            "occupation": "",
+            "location": "Butchers Creek in Roanoke Ridge, State of New Hanover",
+            "mission": "The Wisdom of the Elders",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 51,
+            "name": "Jean-Marc Mercier",
+            "occupation": "Deputy mayor Of Saint Denis",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "The Gilded Cage, Idealism and Pragmatism for Beginners I-III",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 52,
+            "name": "Hector Fellows",
+            "occupation": "Newspaper publisher",
+            "location": "City of Saint Denis in Bayou Nwa, State of Lemoyne",
+            "mission": "Idealism and Pragmatism for Beginners II",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        },
+        {
+            "id": 53,
+            "name": "Joe Butler",
+            "occupation": "Former Confederate soldier",
+            "location": "Rhodes in Scarlett Meadows, State of Lemoyne",
+            "mission": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            }
+        }
+    ]
+}

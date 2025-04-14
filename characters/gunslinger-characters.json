@@ -1,0 +1,70 @@
+{
+    "gunslingers": [
+        {
+            "id": 1,
+            "name": "Black Belle",
+            "real_name": "Maybelle Elizabeth Colter",
+            "location": "Canebreak Manor in Bluewater Marsh, State of Lemoyne",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 2,
+            "name": "Billy Midnight",
+            "real_name": "Wilhelm Schnell",
+            "location": "On a train in Rhodes in Scarlett Meadows, State of Lemoyne",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 3,
+            "name": "Emmet Granger",
+            "real_name": "",
+            "location": "Grangers Hoggery in Flat Iron Lake in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 4,
+            "name": "The Terror of the Grizzlies",
+            "real_name": "Flaco Hernández",
+            "location": "Cairn Lodge in Grizzlies West, State of Ambarino",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 5,
+            "name": "Boy Calloway",
+            "real_name": "Jim Calloway",
+            "location": "Valentine in The Heartlands, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 6,
+            "name": "Slim Grant",
+            "real_name": "",
+            "location": "Beaver Hollow in Roanoke Ridge, State of New Hanover",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        }
+    ]
+}

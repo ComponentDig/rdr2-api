@@ -1,0 +1,940 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Arthur Morgan",
+            "D.O.B": "1863",
+            "age": "36",
+            "died": "1899",
+            "cause of death": "Tuberculosis",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "players choice",
+                "breed": "players choice",
+                "color": "players choice",
+                "owner": "Arthur Morgan",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Boadicea",
+                "breed": "",
+                "color": "",
+                "owner": "Arthur Morgan",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Before main story"
+            }
+        },
+        {
+            "id": 2,
+            "name": "John Marston",
+            "D.O.B": "1873",
+            "age": "26",
+            "died": "ca 1911",
+            "cause of death": "Shot by Edgar Ross from Bureau of Investigation",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Old Boy",
+                "breed": "Hungarian Half-bred",
+                "color": "Silver Dark Bay",
+                "owner": "John Marston",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Rachel",
+                "breed": "Thoroughbred",
+                "color": "Grey Roan Sabino",
+                "owner": "John Marston",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Dutch Van Der Linde",
+            "D.O.B": "1858",
+            "age": "41",
+            "died": "ca 1911",
+            "cause of death": "Jumped of a cliff",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde (Leader)",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "The Count",
+                "breed": "Arabian",
+                "color": "Albino (Cremello)",
+                "owner": "Dutch Van Der Linde",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            }
+        },
+        {
+            "id": 4,
+            "name": "Bill Williamson",
+            "D.O.B": "1866",
+            "age": "33",
+            "died": "ca 1911",
+            "cause of death": "Shot by John Marston",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Soldier (formerly), Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Brown Jack",
+                "breed": "Ardennes",
+                "color": "Brown Roan",
+                "owner": "Bill Williamson",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            }
+        },
+        {
+            "id": 5,
+            "name": "Charles Smith",
+            "D.O.B": "ca 1872",
+            "age": "27",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American, Native American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Taima",
+                "breed": "Appaloosa",
+                "color": "Grey Snowcap Spotted",
+                "owner": "Charles Smith",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Falmouth",
+                "breed": "Nokota",
+                "color": "Grey Roan Sabino",
+                "owner": "Charles Smith",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Hosea Matthews",
+            "D.O.B": "ca 1844",
+            "age": "ca 55",
+            "died": "1899",
+            "cause of death": "Shot by Milton Ross",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Stage Actor (formerly), Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Silver Dollar",
+                "breed": "Turkoman",
+                "color": "Silver",
+                "owner": "Hosea Matthews",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            }
+        },
+        {
+            "id": 7,
+            "name": "Sadie Adler",
+            "D.O.B": "ca 1874",
+            "age": "25",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Bounty Hunter",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Bob",
+                "breed": "Turkoman",
+                "color": "Gold Dapple",
+                "owner": "Sadie Adler",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Hera",
+                "breed": "Mustang",
+                "color": "Dark Bay Roan",
+                "owner": "Sadie Adler",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Abigail Roberts",
+            "D.O.B": "ca 1877",
+            "age": "22",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope (owner)",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "Tennessee Walker",
+                "color": "Red Roan",
+                "owner": "Abigail Roberts",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Jack Marston",
+            "D.O.B": "ca 1895",
+            "age": "4",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Rancher at Beachers Hope, Bounty Hunter (when older)",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": ""
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "Morgan",
+                "color": "",
+                "owner": "Jack Marston",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Javier Escuella",
+            "D.O.B": "",
+            "age": "mid-20s",
+            "died": "",
+            "cause of death": "",
+            "nationality": "Mexican",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Revolutionary (formerly), Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Boaz",
+                "breed": "American Paint",
+                "color": "Grey Overo",
+                "owner": "Javier Escuella",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 11,
+            "name": "Josiah Trelawny",
+            "D.O.B": "",
+            "age": "mid-40s",
+            "died": "",
+            "cause of death": "",
+            "nationality": "English",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Magician, Conman",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Gwydion",
+                "breed": "Appaloosa",
+                "color": "Brown Leopard",
+                "owner": "Josiah Trelawny",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 12,
+            "name": "Karen Jones",
+            "D.O.B": "",
+            "age": "mid-20s",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Old Belle",
+                "breed": "Nokota",
+                "color": "Smoky Black",
+                "owner": "Karen Jones",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 13,
+            "name": "Kieran Duffy",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Decapitated by O'Driscolls Boys",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde, O'Driscolls Boys (formerly)",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Branwen",
+                "breed": "Tennessee Walker",
+                "color": "Flaxen Roan",
+                "owner": "Kieran Duffy",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 14,
+            "name": "Lenny Summers",
+            "D.O.B": "1880",
+            "age": "19",
+            "died": "1899",
+            "cause of death": "Shot by Saint Denis police during bank robbery",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Maggie",
+                "breed": "Mustang",
+                "color": "Light Palamino",
+                "owner": "Lenny Summers",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 15,
+            "name": "Leopold Strauss",
+            "D.O.B": "1846",
+            "age": "53",
+            "died": "",
+            "cause of death": "",
+            "nationality": "Austrian",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Bookkeeper, Loan Shark",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "Morgan",
+                "color": "",
+                "owner": "Leopold Strauss",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 16,
+            "name": "Mary-Beth Gaskill",
+            "D.O.B": "",
+            "age": "mid-20s",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Novelist",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 17,
+            "name": "Micah Bell",
+            "D.O.B": "1860",
+            "age": "39",
+            "died": "1907",
+            "cause of death": "Shot by John Marston and Sadie Adler",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Baylock",
+                "breed": "Missouri Fox Trotter",
+                "color": "Black",
+                "owner": "Micah Bell",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 18,
+            "name": "Molly O'Shea",
+            "D.O.B": "",
+            "age": "mid-20s",
+            "died": "1899",
+            "cause of death": "Shot by Susan Grimshaw for breaking gang rules",
+            "nationality": "Irish",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 19,
+            "name": "Simon Pearson",
+            "D.O.B": "1851",
+            "age": "48",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Sailor and cook (formerly), Outlaw (formerly), Shopkeeper",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 20,
+            "name": "Orville Swanson",
+            "D.O.B": "",
+            "age": "mid-40s",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Clergyman, Minister",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 21,
+            "name": "Sean MacGuire",
+            "D.O.B": "",
+            "age": "mid-20s",
+            "died": "1899",
+            "cause of death": "Shot by Gray family in Rhodes ambush",
+            "nationality": "Irish",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Ennis",
+                "breed": "American Standardbred",
+                "color": "Silver Tail Buckskin",
+                "owner": "Sean MacGuire",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 22,
+            "name": "Susan Grimshaw",
+            "D.O.B": "",
+            "age": "mid-50s",
+            "died": "1899",
+            "cause of death": "Shot by Micah Bell",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 23,
+            "name": "Tilly Jackson",
+            "D.O.B": "",
+            "age": "early-20s",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "",
+                "breed": "",
+                "color": "",
+                "owner": "",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        },
+        {
+            "id": 24,
+            "name": "Uncle",
+            "D.O.B": "1849",
+            "age": "50",
+            "died": "1911",
+            "cause of death": "Shot by Bureau of Investigation",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Van Der Linde",
+            "occupation": "Outlaw (formerly), Rancher at Beachers Hope",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {},
+            "horse": {
+                "name": "Nell II",
+                "breed": "Kentucky Saddler",
+                "color": "Sabino",
+                "owner": "Uncle",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Main Story"
+            },
+            "other_horse": {
+                "name": "Nell IV",
+                "breed": "Appaloosa",
+                "color": "Few Spot Buckskin",
+                "owner": "Uncle",
+                "image": {
+                    "url": "",
+                    "alt_text": ""
+                },
+                "period": "Epilogue"
+            }
+        }
+    ]
+}

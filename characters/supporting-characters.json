@@ -1,0 +1,208 @@
+{
+    "supporting": [
+        {
+            "id": 1,
+            "name": "Beau Gray",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Gray Family",
+            "occupation": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 2,
+            "name": "Lyndon Monroe",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "",
+            "occupation": "Captain of the United States Army",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 3,
+            "name": "David Geddes",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "",
+            "occupation": "Owner of Pronghorn Ranch",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 4,
+            "name": "Eagle Flies",
+            "D.O.B": "",
+            "age": "",
+            "died": "1899",
+            "cause of death": "Shot by Colonel Favours",
+            "nationality": "Indian, Native American",
+            "gender": "Male",
+            "affiliation": "Wapiti Indians",
+            "occupation": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 5,
+            "name": "Hercule Fontaine",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "Haitian",
+            "gender": "Male",
+            "affiliation": "Guarma Rebels",
+            "occupation": "Rebel, Smuggler",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 6,
+            "name": "Rains Fall",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "Indian, Native American",
+            "gender": "Male",
+            "affiliation": "Wapiti Indians",
+            "occupation": "Chieftain",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 7,
+            "name": "Tom Dickens",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Pronghorn Ranch",
+            "occupation": "Ranch overseer",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 8,
+            "name": "Archibald MacGregor",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "Scarlett Meadows Sheriff's Office",
+            "occupation": "Sheriff's deputy",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 9,
+            "name": "Paytah",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "Indian, Native American",
+            "gender": "Male",
+            "affiliation": "Wapiti Indians",
+            "occupation": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 10,
+            "name": "Penelope Braithwaite",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "Gray Family",
+            "occupation": "",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 11,
+            "name": "Edith Downes",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Female",
+            "affiliation": "",
+            "occupation": "Farmer (formerly), prostitute",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        },
+        {
+            "id": 12,
+            "name": "Archie Downes",
+            "D.O.B": "",
+            "age": "",
+            "died": "",
+            "cause of death": "",
+            "nationality": "American",
+            "gender": "Male",
+            "affiliation": "",
+            "occupation": "Farmer (formerly), miner",
+            "image": {
+                "url": "",
+                "alt_text": ""
+            },
+            "additional_info": {}
+        }
+    ]
+}
